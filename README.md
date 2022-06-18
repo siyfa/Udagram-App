@@ -4,4 +4,4 @@
 ![img-1](/AWSDiagram.jpeg)
 
 >Web App Deployment Result - AWS/
-![img-1](/Images/Wep-app-page.jpg)
+![img-1](/Images/Wep-App-Page-Result.jpg)
